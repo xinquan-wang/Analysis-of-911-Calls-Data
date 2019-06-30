@@ -11,4 +11,5 @@ For this project I will be analyzing some 911 call data from Kaggle. The data co
 - twp: String variable, Township
 - addr: String variable, Address
 - e: String variable, Dummy variable (always 1)
+
 I will focus on the exploratory data analysis and visualization to see whether there's any trend for 911 calls in geographic pattern and time span.
